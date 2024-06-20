@@ -7,9 +7,9 @@ def myAgent  = 'dxc'
  
 //* The app repo abd DBB args
 // def repo = 'git@github.com:nlopez1-ibm/MortgageWorkspace.git'
-def repo = 'git@github.com:gandalf68000/MortgageWorkspaceD.git'
-def appworkspace = 'MortgageWorkspaceD'
-def appname = 'MortgageApplicationD'
+def repo = 'https://github.com/gandalf68000/DXC-workspace.git'
+def appworkspace = 'DXC-workspace'
+def appname = 'MortgageApplication'
  
 // Location of the DBB build script
 def dbbbuild ='/u/ibmuser/dbb-zappbuild/build.groovy'
