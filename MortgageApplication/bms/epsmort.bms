@@ -36,7 +36,7 @@ MSGERR  DFHMDF POS=(22,15),ATTRB=(PROT,NORM),LENGTH=40,                X00340000
                INITIAL='Hi from Neft 3'                                         
          DFHMDF POS=(2,48),LENGTH=0,                                   *
                ATTRB=ASKIP
-         DFHMDF POS=(5,25),LENGTH=26,INITIAL='DXC MORTGAGE CALC',      *
+         DFHMDF POS=(5,25),LENGTH=26,INITIAL='DXC MORTGAGE CALC 02',   
                ATTRB=(ASKIP,BRT)
 EPSMORT  DFHMSD TYPE=FINAL                                               0036000
         END                                                             00370000
